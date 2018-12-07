@@ -1,0 +1,1 @@
+http://25163.hosts1.ma-cloud.nl/bewijzenmap/periode2.1/fro/js/smooth-scrolling/
